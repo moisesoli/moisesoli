@@ -12,11 +12,7 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/krics477" target="_blank">
-<img align="left" alt="moisesoli" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/krics477/" target="_blank">
+<a href="https://www.instagram.com/moises_oliveira_14/" target="_blank">
 <img align="left" alt="moisesoli" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
 <br>
